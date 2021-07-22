@@ -54,8 +54,6 @@ export default (props) => {
     </div>
   )
 }
-
-
 /*
 
 else if (props.searchSelect) {

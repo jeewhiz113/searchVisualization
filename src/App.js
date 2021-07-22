@@ -9,7 +9,7 @@ function App() {
   return (
     <div className="App">
       <Navbar fixed="top"/>
-
+      <h1>The App is currently under development!  :)</h1>
     </div>
   );
 }
